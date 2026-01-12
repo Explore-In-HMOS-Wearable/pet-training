@@ -8,9 +8,9 @@ This app is optimized for smartwatch use with simple interaction buttons and off
 
 # Preview
 
-<p align="left">
-  <img src="./screenshots/dogtrainer_1.png" width="25%">
-  <img src="./screenshots/dogtrainer_2.png" width="25%">
+<p align="center">
+  <img src="./screenshots/dogtrainer_1.png" width="24%">
+  <img src="./screenshots/dogtrainer_2.png" width="24%">
 </p>
 
 # Use Cases
