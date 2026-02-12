@@ -8,7 +8,7 @@ This app is optimized for smartwatch use with simple interaction buttons and off
 
 # Preview
 
-<p align="center">
+<p>
   <img src="./screenshots/dogtrainer_1.png" width="24%">
   <img src="./screenshots/dogtrainer_2.png" width="24%">
 </p>
@@ -71,3 +71,4 @@ entry/src/main/ets/
 
 **DogTrainerWatchApp** is released under the MIT License.  
 See the [LICENSE](./LICENSE) file for more information.
+
